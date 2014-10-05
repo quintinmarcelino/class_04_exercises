@@ -224,5 +224,4 @@ number = 1
 #column two. Min temperature is column three).
 
 #weather_data = File.read(C:\Users\Quintin\BEWD Course\class_04\weather.dat)
-weather_data = File.read(https://docs.google.com/file/d/0B3LBEyg5q9xEdmk1dm5IcUZJMk0/edit)
-puts weather.dat
+#puts weather.dat
