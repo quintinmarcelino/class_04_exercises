@@ -11,3 +11,16 @@
 #* a *
 #* frame *
 #**********
+
+puts "SPARKLE MAGIC\n============="
+puts "I can put your words into a sparkly box!\n==============================="
+puts "Enter your words!"
+user_words = gets.chomp.split(' ')
+word_array = []
+word_array.push(user_words)
+
+#puts user_words.each_line('') {|s| p s }
+
+puts word_array[1]
+
+#puts "You said #{user_words}"
